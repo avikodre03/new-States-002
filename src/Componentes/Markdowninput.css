@@ -1,0 +1,23 @@
+.inputContainer{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 2px solid rgba(15, 15, 15, 0.4);
+
+}
+.inputContainer textarea{
+
+    width: 100%;
+    height: 100%;
+    border-color: transparent;
+    border-radius: 0.25rem;
+    font-size: 1.2rem;
+    line-height: 2;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+}
+  
+
+
